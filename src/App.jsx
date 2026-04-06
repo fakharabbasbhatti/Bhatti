@@ -35,7 +35,7 @@ function App() {
         </style>
 
         {/* Glowing background */}
-        <div className="absolute inset-0 bg-gradient-to-r from-cyan-500 via-indigo-500 to-blue-500 opacity-30 animate-pulse blur-3xl"></div>
+        <div className="absolute inset-0  opacity-30 animate-pulse blur-3xl"></div>
 
         <div className="relative flex flex-col items-center">
           <div aria-label="Loading..." role="status">
@@ -70,7 +70,7 @@ function App() {
 
       {/* WhatsApp Icon */}
       <a
-        href="https://wa.me/923159834167"
+        href="https://wa.me/923229234045"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-5 right-5 bg-green-500 text-white p-4 rounded-full shadow-lg hover:scale-110 transition-transform z-50"
