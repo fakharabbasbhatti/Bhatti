@@ -1,7 +1,7 @@
 import { Fragment, useEffect } from "react";
 import { FaPaperPlane, FaRocket } from "react-icons/fa";
 import { Typewriter } from "react-simple-typewriter";
-import Hero from "../Images/Fakhar Abbas.jpeg";
+import Hero from "../Images/fakhar.jpeg";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
