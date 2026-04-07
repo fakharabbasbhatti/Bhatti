@@ -1,6 +1,6 @@
 import { Fragment, useEffect } from "react";
 import About from "../Images/fakhar.jpeg";
-import resume from "../Images/fakhar.jpeg";
+import resume from "../Images/fakhar.pdf";
 import { FaDownload, FaUserTie, FaPalette, FaWordpress } from "react-icons/fa";
 import AOS from "aos";
 import "aos/dist/aos.css";

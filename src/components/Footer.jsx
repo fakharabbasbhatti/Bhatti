@@ -60,7 +60,7 @@ const Footer = () => {
       </div>
 
       {/* Footer Bottom */}
-      <div className="border-t border-blue-300 sm:w-[1300px] mx-auto mt-10 pt-4 text-center">
+      <div className="border-t border-blue-300 sm:w-[1200px] mx-auto mt-10 pt-4 text-center">
         <p>
           Made with <span>🎀</span> by{" "}
           <span className="font-bold">Fakhar Abbas</span> &copy;{" "}

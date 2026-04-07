@@ -31,7 +31,7 @@ const EducationExperience = () => {
   const experience = [
     {
       title: "React Developer",
-      period: "2024 - 2025",
+      period: "Mar 2025 - Dec 2025",
       company: "Codes Thinker Company",
       icon: <FaBriefcase className="text-white text-2xl" />,
     },
